@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://stonepunch.github.io/robofriends",
+  "homepage": "http://stonepunch.github.io/RoboFriends",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
