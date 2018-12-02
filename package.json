@@ -5,10 +5,11 @@
   "homepage": "http://stonepunch.github.io/RoboFriends",
   "dependencies": {
     "gh-pages": "^1.2.0",
+    "merge": "^1.2.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
-    "react-scripts": "1.1.5",
+    "react-scripts": "^2.1.1",
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
@@ -21,5 +22,11 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
